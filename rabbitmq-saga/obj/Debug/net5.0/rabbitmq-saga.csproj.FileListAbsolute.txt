@@ -1,0 +1,13 @@
+C:\Users\adem.sahin\source\repos\localsysnuget\net5.0\rabbitmq-saga.deps.json
+C:\Users\adem.sahin\source\repos\localsysnuget\net5.0\rabbitmq-saga.dll
+C:\Users\adem.sahin\source\repos\localsysnuget\net5.0\ref\rabbitmq-saga.dll
+C:\Users\adem.sahin\source\repos\localsysnuget\net5.0\rabbitmq-saga.pdb
+C:\Users\adem.sahin\source\repos\Koton.OrderAPI\rabbitmq-saga\obj\Debug\net5.0\rabbitmq-saga.csproj.AssemblyReference.cache
+C:\Users\adem.sahin\source\repos\Koton.OrderAPI\rabbitmq-saga\obj\Debug\net5.0\rabbitmq-saga.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\adem.sahin\source\repos\Koton.OrderAPI\rabbitmq-saga\obj\Debug\net5.0\rabbitmq-saga.AssemblyInfoInputs.cache
+C:\Users\adem.sahin\source\repos\Koton.OrderAPI\rabbitmq-saga\obj\Debug\net5.0\rabbitmq-saga.AssemblyInfo.cs
+C:\Users\adem.sahin\source\repos\Koton.OrderAPI\rabbitmq-saga\obj\Debug\net5.0\rabbitmq-saga.csproj.CoreCompileInputs.cache
+C:\Users\adem.sahin\source\repos\Koton.OrderAPI\rabbitmq-saga\obj\Debug\net5.0\rabbitmq-saga.csproj.CopyComplete
+C:\Users\adem.sahin\source\repos\Koton.OrderAPI\rabbitmq-saga\obj\Debug\net5.0\rabbitmq-saga.dll
+C:\Users\adem.sahin\source\repos\Koton.OrderAPI\rabbitmq-saga\obj\Debug\net5.0\ref\rabbitmq-saga.dll
+C:\Users\adem.sahin\source\repos\Koton.OrderAPI\rabbitmq-saga\obj\Debug\net5.0\rabbitmq-saga.pdb
