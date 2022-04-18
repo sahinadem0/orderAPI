@@ -953,12 +953,12 @@
           "lib/netstandard1.3/Newtonsoft.Json.Bson.dll": {}
         }
       },
-      "rabbitmq-saga/1.0.15": {
+      "rabbitmq-saga/1.0.16": {
         "type": "package",
         "dependencies": {
           "MassTransit": "6.2.5",
           "MassTransit.EntityFrameworkCore": "6.2.5",
-          "rabbitmq-message": "1.0.5"
+          "rabbitmq-message": "1.0.6"
         },
         "compile": {
           "lib/net5.0/rabbitmq-saga.dll": {}
@@ -2624,7 +2624,7 @@
           "lib/netstandard1.3/System.Xml.XmlSerializer.dll": {}
         }
       },
-      "rabbitmq-message/1.0.5": {
+      "rabbitmq-message/1.0.6": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v5.0",
         "dependencies": {
@@ -3928,14 +3928,14 @@
         "newtonsoft.json.bson.nuspec"
       ]
     },
-    "rabbitmq-saga/1.0.15": {
-      "sha512": "M3TD8wXyOvX4XRDysmG0pBPBgA1FfMreOpTgwndUNM9vTN5D8ONRxSuyw5Bu0rvxQkWikigq51jT4zzJsDbILg==",
+    "rabbitmq-saga/1.0.16": {
+      "sha512": "sw03I9clmgvxSgqsbhk9zr+mQHbJz4Jzinh5zubTVjXqkSzYZR/NR1oP5D9qYa6i6eAU/oTwidDnDpBwuiBZTQ==",
       "type": "package",
-      "path": "rabbitmq-saga/1.0.15",
+      "path": "rabbitmq-saga/1.0.16",
       "files": [
         ".nupkg.metadata",
         "lib/net5.0/rabbitmq-saga.dll",
-        "rabbitmq-saga.1.0.15.nupkg.sha512",
+        "rabbitmq-saga.1.0.16.nupkg.sha512",
         "rabbitmq-saga.nuspec"
       ]
     },
@@ -8531,7 +8531,7 @@
         "system.xml.xmlserializer.nuspec"
       ]
     },
-    "rabbitmq-message/1.0.5": {
+    "rabbitmq-message/1.0.6": {
       "type": "project",
       "path": "../rabbitmq-message/rabbitmq-message.csproj",
       "msbuildProject": "../rabbitmq-message/rabbitmq-message.csproj"
@@ -8544,8 +8544,8 @@
       "Microsoft.EntityFrameworkCore.SqlServer >= 5.0.16",
       "Microsoft.EntityFrameworkCore.Tools >= 5.0.16",
       "Swashbuckle.AspNetCore >= 5.6.3",
-      "rabbitmq-message >= 1.0.5",
-      "rabbitmq-saga >= 1.0.15"
+      "rabbitmq-message >= 1.0.6",
+      "rabbitmq-saga >= 1.0.16"
     ]
   },
   "packageFolders": {
@@ -8621,7 +8621,7 @@
           },
           "rabbitmq-saga": {
             "target": "Package",
-            "version": "[1.0.15, )"
+            "version": "[1.0.16, )"
           }
         },
         "imports": [

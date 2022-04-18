@@ -1,7 +1,3 @@
-C:\Users\adem.sahin\source\repos\localsysnuget\net5.0\rabbitmq-message.deps.json
-C:\Users\adem.sahin\source\repos\localsysnuget\net5.0\rabbitmq-message.dll
-C:\Users\adem.sahin\source\repos\localsysnuget\net5.0\ref\rabbitmq-message.dll
-C:\Users\adem.sahin\source\repos\localsysnuget\net5.0\rabbitmq-message.pdb
 C:\Users\adem.sahin\source\repos\Koton.OrderAPI\rabbitmq-message\obj\Debug\net5.0\rabbitmq-message.GeneratedMSBuildEditorConfig.editorconfig
 C:\Users\adem.sahin\source\repos\Koton.OrderAPI\rabbitmq-message\obj\Debug\net5.0\rabbitmq-message.AssemblyInfoInputs.cache
 C:\Users\adem.sahin\source\repos\Koton.OrderAPI\rabbitmq-message\obj\Debug\net5.0\rabbitmq-message.AssemblyInfo.cs
@@ -10,3 +6,14 @@ C:\Users\adem.sahin\source\repos\Koton.OrderAPI\rabbitmq-message\obj\Debug\net5.
 C:\Users\adem.sahin\source\repos\Koton.OrderAPI\rabbitmq-message\obj\Debug\net5.0\ref\rabbitmq-message.dll
 C:\Users\adem.sahin\source\repos\Koton.OrderAPI\rabbitmq-message\obj\Debug\net5.0\rabbitmq-message.pdb
 C:\Users\adem.sahin\source\repos\Koton.OrderAPI\rabbitmq-message\obj\Debug\net5.0\rabbitmq-message.csproj.AssemblyReference.cache
+C:\Users\adem.sahin\source\repos\localsysnuget\net5.0\rabbitmq-message.deps.json
+C:\Users\adem.sahin\source\repos\localsysnuget\net5.0\rabbitmq-message.dll
+C:\Users\adem.sahin\source\repos\localsysnuget\net5.0\ref\rabbitmq-message.dll
+C:\Users\adem.sahin\source\repos\localsysnuget\net5.0\rabbitmq-message.pdb
+C:\_sdm_projects\orderAPI\rabbitmq-message\obj\Debug\net5.0\rabbitmq-message.GeneratedMSBuildEditorConfig.editorconfig
+C:\_sdm_projects\orderAPI\rabbitmq-message\obj\Debug\net5.0\rabbitmq-message.AssemblyInfoInputs.cache
+C:\_sdm_projects\orderAPI\rabbitmq-message\obj\Debug\net5.0\rabbitmq-message.AssemblyInfo.cs
+C:\_sdm_projects\orderAPI\rabbitmq-message\obj\Debug\net5.0\rabbitmq-message.csproj.CoreCompileInputs.cache
+C:\_sdm_projects\orderAPI\rabbitmq-message\obj\Debug\net5.0\rabbitmq-message.dll
+C:\_sdm_projects\orderAPI\rabbitmq-message\obj\Debug\net5.0\ref\rabbitmq-message.dll
+C:\_sdm_projects\orderAPI\rabbitmq-message\obj\Debug\net5.0\rabbitmq-message.pdb

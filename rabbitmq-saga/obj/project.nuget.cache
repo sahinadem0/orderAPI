@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "NNfv3vsrvQP628D/E9RIK+7yf0C76AkiR4AcDo9r04mLnzL9VWCwMQ/UidO3UJjpH0QIMWnb5IhDajn55EUcvA==",
+  "dgSpecHash": "D5UzpT1+0NIIkNoFJshV0DYtnbNLtsvZOqAfLZcyVy9IL2/kMIw/i74Og0TyRh3vqXnh3PdfPP9DEk23ZfOh1Q==",
   "success": true,
   "projectFilePath": "C:\\_sdm_projects\\orderAPI\\rabbitmq-saga\\rabbitmq-saga.csproj",
   "expectedPackageFiles": [
@@ -134,7 +134,7 @@
     "C:\\Users\\adem.sahin\\.nuget\\packages\\system.valuetuple\\4.5.0\\system.valuetuple.4.5.0.nupkg.sha512",
     "C:\\Users\\adem.sahin\\.nuget\\packages\\system.xml.readerwriter\\4.3.1\\system.xml.readerwriter.4.3.1.nupkg.sha512",
     "C:\\Users\\adem.sahin\\.nuget\\packages\\system.xml.xdocument\\4.3.0\\system.xml.xdocument.4.3.0.nupkg.sha512",
-    "C:\\Users\\adem.sahin\\.nuget\\packages\\rabbitmq-message\\1.0.5\\rabbitmq-message.1.0.5.nupkg.sha512"
+    "C:\\Users\\adem.sahin\\.nuget\\packages\\rabbitmq-message\\1.0.6\\rabbitmq-message.1.0.6.nupkg.sha512"
   ],
   "logs": []
 }

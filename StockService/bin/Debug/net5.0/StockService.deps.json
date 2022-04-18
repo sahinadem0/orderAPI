@@ -36,8 +36,8 @@
           "MassTransit.AspNetCore": "6.2.5",
           "MassTransit.RabbitMQ": "6.2.5",
           "Swashbuckle.AspNetCore": "5.6.3",
-          "rabbitmq-message": "1.0.5",
-          "rabbitmq-saga": "1.0.15",
+          "rabbitmq-message": "1.0.6",
+          "rabbitmq-saga": "1.0.16",
           "Microsoft.AspNetCore.Antiforgery": "5.0.0.0",
           "Microsoft.AspNetCore.Authentication.Abstractions": "5.0.0.0",
           "Microsoft.AspNetCore.Authentication.Cookies": "5.0.0.0",
@@ -822,7 +822,7 @@
           "lib/netstandard1.3/Newtonsoft.Json.Bson.dll": {}
         }
       },
-      "rabbitmq-message/1.0.5": {
+      "rabbitmq-message/1.0.6": {
         "dependencies": {
           "MassTransit": "6.2.5",
           "MassTransit.AspNetCore": "6.2.5",
@@ -830,24 +830,24 @@
         },
         "runtime": {
           "lib/net5.0/rabbitmq-message.dll": {
-            "assemblyVersion": "1.0.5.0",
-            "fileVersion": "1.0.5.0"
+            "assemblyVersion": "1.0.6.0",
+            "fileVersion": "1.0.6.0"
           }
         },
         "compile": {
           "lib/net5.0/rabbitmq-message.dll": {}
         }
       },
-      "rabbitmq-saga/1.0.15": {
+      "rabbitmq-saga/1.0.16": {
         "dependencies": {
           "MassTransit": "6.2.5",
           "MassTransit.EntityFrameworkCore": "6.2.5",
-          "rabbitmq-message": "1.0.5"
+          "rabbitmq-message": "1.0.6"
         },
         "runtime": {
           "lib/net5.0/rabbitmq-saga.dll": {
-            "assemblyVersion": "1.0.15.0",
-            "fileVersion": "1.0.15.0"
+            "assemblyVersion": "1.0.16.0",
+            "fileVersion": "1.0.16.0"
           }
         },
         "compile": {
@@ -3599,19 +3599,19 @@
       "path": "newtonsoft.json.bson/1.0.1",
       "hashPath": "newtonsoft.json.bson.1.0.1.nupkg.sha512"
     },
-    "rabbitmq-message/1.0.5": {
+    "rabbitmq-message/1.0.6": {
       "type": "package",
       "serviceable": true,
-      "sha512": "sha512-Ltt+o5qomCmxGvHjc1EKw51Fi90eWTINMAM2i1LKf6C1tB6a8TmJx2Sw+7yyKuDoUhDse7F5M/sjFo6GlmWjcg==",
-      "path": "rabbitmq-message/1.0.5",
-      "hashPath": "rabbitmq-message.1.0.5.nupkg.sha512"
+      "sha512": "sha512-mgpdTOZjlwvdj5Hh8eZfKzFcgIrIMDna6j5OD3FN4xeDcWaYt9Yay41Ra8OR9uo+kecdQ1rky2vIRYJtJVN/4g==",
+      "path": "rabbitmq-message/1.0.6",
+      "hashPath": "rabbitmq-message.1.0.6.nupkg.sha512"
     },
-    "rabbitmq-saga/1.0.15": {
+    "rabbitmq-saga/1.0.16": {
       "type": "package",
       "serviceable": true,
-      "sha512": "sha512-M3TD8wXyOvX4XRDysmG0pBPBgA1FfMreOpTgwndUNM9vTN5D8ONRxSuyw5Bu0rvxQkWikigq51jT4zzJsDbILg==",
-      "path": "rabbitmq-saga/1.0.15",
-      "hashPath": "rabbitmq-saga.1.0.15.nupkg.sha512"
+      "sha512": "sha512-sw03I9clmgvxSgqsbhk9zr+mQHbJz4Jzinh5zubTVjXqkSzYZR/NR1oP5D9qYa6i6eAU/oTwidDnDpBwuiBZTQ==",
+      "path": "rabbitmq-saga/1.0.16",
+      "hashPath": "rabbitmq-saga.1.0.16.nupkg.sha512"
     },
     "RabbitMQ.Client/5.1.2": {
       "type": "package",

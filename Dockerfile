@@ -1,6 +1,5 @@
 FROM mcr.microsoft.com/dotnet/sdk:5.0 as build
 WORKDIR /app
-RUN dotnet restore
 COPY . .
 RUN dotnet publish ./OrderService/*.csproj -o /publish/
 FROM mcr.microsoft.com/dotnet/aspnet:5.0

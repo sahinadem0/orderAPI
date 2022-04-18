@@ -15,7 +15,6 @@ namespace OrderService.Models
         public int Quantity { get; set; }
         public int Stock { get; set; }
         public string Status { get; set; }
-        public int [] Discounts { get; set; }
 
 
         public virtual Customer Customer { get; set; }

@@ -7,9 +7,9 @@ using System.Threading.Tasks;
 namespace StockService
 {
     public class OrderValidateConsumer :
-      IConsumer<ICardValidatorEvent>
+      IConsumer<IOrderValidateEvent>
     {
-        public async Task Consume(ConsumeContext<ICardValidatorEvent> context)
+        public async Task Consume(ConsumeContext<IOrderValidateEvent> context)
         {
             var data = context.Message;
 
@@ -20,7 +20,6 @@ namespace StockService
             }
             else
             {
-                // send to next microservice
             }
         }
     }

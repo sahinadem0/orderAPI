@@ -5,7 +5,7 @@
   },
   "projects": {
     "C:\\_sdm_projects\\orderAPI\\rabbitmq-message\\rabbitmq-message.csproj": {
-      "version": "1.0.5",
+      "version": "1.0.6",
       "restore": {
         "projectUniqueName": "C:\\_sdm_projects\\orderAPI\\rabbitmq-message\\rabbitmq-message.csproj",
         "projectName": "rabbitmq-message",
@@ -78,7 +78,7 @@
       }
     },
     "C:\\_sdm_projects\\orderAPI\\rabbitmq-saga\\rabbitmq-saga.csproj": {
-      "version": "1.0.15",
+      "version": "1.0.16",
       "restore": {
         "projectUniqueName": "C:\\_sdm_projects\\orderAPI\\rabbitmq-saga\\rabbitmq-saga.csproj",
         "projectName": "rabbitmq-saga",

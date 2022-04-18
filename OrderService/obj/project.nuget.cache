@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "pBthmhyFObNmRfl3zWslWjmLrJNzUPR3/wFDakvYcSdExv7KaROLc8rC1dau/HNJjGhiGekwJY/LQjiknx9gAw==",
+  "dgSpecHash": "4qiDX9k+1miKWfvyHUE4EQTo1lv+clt3NypK5EDKR8ryhWu7v4eePGANA02kUjVrxllKFNFwwSffAtJ3YvN8hw==",
   "success": true,
   "projectFilePath": "C:\\_sdm_projects\\orderAPI\\OrderService\\OrderService.csproj",
   "expectedPackageFiles": [
@@ -71,7 +71,7 @@
     "C:\\Users\\adem.sahin\\.nuget\\packages\\newid\\3.0.2\\newid.3.0.2.nupkg.sha512",
     "C:\\Users\\adem.sahin\\.nuget\\packages\\newtonsoft.json\\11.0.2\\newtonsoft.json.11.0.2.nupkg.sha512",
     "C:\\Users\\adem.sahin\\.nuget\\packages\\newtonsoft.json.bson\\1.0.1\\newtonsoft.json.bson.1.0.1.nupkg.sha512",
-    "C:\\Users\\adem.sahin\\.nuget\\packages\\rabbitmq-saga\\1.0.15\\rabbitmq-saga.1.0.15.nupkg.sha512",
+    "C:\\Users\\adem.sahin\\.nuget\\packages\\rabbitmq-saga\\1.0.16\\rabbitmq-saga.1.0.16.nupkg.sha512",
     "C:\\Users\\adem.sahin\\.nuget\\packages\\rabbitmq.client\\5.1.2\\rabbitmq.client.5.1.2.nupkg.sha512",
     "C:\\Users\\adem.sahin\\.nuget\\packages\\runtime.debian.8-x64.runtime.native.system.security.cryptography.openssl\\4.3.0\\runtime.debian.8-x64.runtime.native.system.security.cryptography.openssl.4.3.0.nupkg.sha512",
     "C:\\Users\\adem.sahin\\.nuget\\packages\\runtime.fedora.23-x64.runtime.native.system.security.cryptography.openssl\\4.3.0\\runtime.fedora.23-x64.runtime.native.system.security.cryptography.openssl.4.3.0.nupkg.sha512",
@@ -177,7 +177,7 @@
     "C:\\Users\\adem.sahin\\.nuget\\packages\\system.xml.xdocument\\4.3.0\\system.xml.xdocument.4.3.0.nupkg.sha512",
     "C:\\Users\\adem.sahin\\.nuget\\packages\\system.xml.xmldocument\\4.3.0\\system.xml.xmldocument.4.3.0.nupkg.sha512",
     "C:\\Users\\adem.sahin\\.nuget\\packages\\system.xml.xmlserializer\\4.3.0\\system.xml.xmlserializer.4.3.0.nupkg.sha512",
-    "C:\\Users\\adem.sahin\\.nuget\\packages\\rabbitmq-message\\1.0.5\\rabbitmq-message.1.0.5.nupkg.sha512"
+    "C:\\Users\\adem.sahin\\.nuget\\packages\\rabbitmq-message\\1.0.6\\rabbitmq-message.1.0.6.nupkg.sha512"
   ],
   "logs": []
 }

@@ -25,31 +25,7 @@ namespace OrderService.Controllers
             _sendEndpointProvider = sendEndpointProvider;
             _orderService = orderService;
         }
-
-        [HttpPost]
-        [Route("createorder")]
-        public async Task<IActionResult> CreateOrder([FromBody] Order orderModel)
-        {
-            //save in db
-            //before sending the data
-
-            _orderService.SaveOrder(orderModel);
-
-            var endPoint = await _sendEndpointProvider.
-                GetSendEndpoint(new Uri("queue:" + BusConstants.OrderQueue));
-
-            await endPoint.Send<IOrderMessage>(new
-            {
-                Id = orderModel.Id,
-                CustomerId = orderModel.CustomerId,
-                Quantity = orderModel.Quantity,
-                Stock = orderModel.Stock,
-                Status = orderModel.Status
-            });
-
-            return Ok("Success");
-        }
-         
+                 
         [HttpPost]
         [Route("createorderstatemachine")]
         public async Task<IActionResult> CreateOrderUsingStateMachine([FromBody] Order orderModel)

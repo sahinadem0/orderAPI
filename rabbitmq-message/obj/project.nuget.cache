@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "6yErm8iWkiaanG9n4BPLLMiSJufFLKRaeknj3kNVpniZBdWcp6gpiLGfGu8s4z5rkc4ortDun6XM7Sg1J8YTag==",
+  "dgSpecHash": "BfCauI0l1TsyZlbVo0O21wozfuEdrzfKYMlSyA1Gbz6RZNTB/IhTPZwA4aisLE7aAHM+KReEIWGc3IoUzO9hxA==",
   "success": true,
   "projectFilePath": "C:\\_sdm_projects\\orderAPI\\rabbitmq-message\\rabbitmq-message.csproj",
   "expectedPackageFiles": [

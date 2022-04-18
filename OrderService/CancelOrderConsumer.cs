@@ -21,7 +21,6 @@ namespace OrderService
         {
             var data = context.Message;
 
-            // delete from order database
             _orderService.DeleteOrder(data.Id);
         }
     }

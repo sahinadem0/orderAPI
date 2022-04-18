@@ -5991,7 +5991,7 @@
     "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\": {}
   },
   "project": {
-    "version": "1.0.5",
+    "version": "1.0.6",
     "restore": {
       "projectUniqueName": "C:\\_sdm_projects\\orderAPI\\rabbitmq-message\\rabbitmq-message.csproj",
       "projectName": "rabbitmq-message",
